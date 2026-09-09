@@ -3,13 +3,15 @@ Check device's bootloader.
 Analyze data.
 Full reset with Zero5GHzMethod
 Begin semiconducting installation procedures.
-Install all the latest compatitible drivers.
+Install all the latest proprietary drivers.
 
-///First Boot
-Activate on both sides()
-First offer BiometricID module()
-Offer to set password()
+///Activation
+Verify Voice.
+Verify Face.
+Verify 5 fingerprints.
+Log into account.
+Prompt 1: "You have successfully installed NodeOS".
+Prompt 2: "To finish setup set minimum 8 characters password".
 
-///Lockscreen
-Active connections()
-Traffic usage()
+///Security
+Ownership based on Big Data upon unlocking.

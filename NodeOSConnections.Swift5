@@ -9,3 +9,4 @@ Third layer Fidiro VPN.
 Only IPV6.
 Strict Double NAT.
 No MAC adress.
+Strictly swap with SOCKS5.
